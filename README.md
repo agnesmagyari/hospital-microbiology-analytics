@@ -8,6 +8,12 @@ The report combines executive-level performance monitoring with multidrug-resist
 
 > **Portfolio preview:** This repository presents a curated overview of the project. The complete interactive Power BI report is available for presentation during an interview.
 
+## Dashboard Preview
+
+![Executive Overview Dashboard](assets/executive-overview-watermarked.png)
+
+*Executive Overview — a management-level summary of laboratory volume, positive samples, MDR cases, turnaround time, patient settings, leading pathogens, and departments with the highest MDR case counts.*
+
 ---
 
 ## Project Overview
