@@ -8,11 +8,23 @@ The report combines executive-level performance monitoring with multidrug-resist
 
 > **Portfolio preview:** This repository presents a curated overview of the project. The complete interactive Power BI report is available for presentation during an interview.
 
-## Dashboard Preview
+## Dashboard Previews
 
 ![Executive Overview Dashboard](assets/executive-overview-watermarked.png)
 
 *Executive Overview — a management-level summary of laboratory volume, positive samples, MDR cases, turnaround time, patient settings, leading pathogens, and departments with the highest MDR case counts.*
+
+![MDR Surveillance Dashboard](assets/mdr-surveillance-watermarked.png)
+
+*MDR Surveillance — an analytical view of multidrug-resistant cases, resistance profiles, pathogen patterns, monthly trends, and department-level MDR risk.*
+
+![Laboratory Operations Dashboard](assets/laboratory-operations-watermarked.png)
+
+*Laboratory Operations — an operational view of turnaround time, notification performance, specimen-level processing times, and monthly changes in laboratory workload.*
+
+![Volume and Funding Dashboard](assets/volume-and-funding-watermarked.png)
+
+*Volume & Funding — an overview of public and private sample volumes, analytical value by specimen type, departmental funding distribution, and working-Saturday activity.*
 
 ---
 
